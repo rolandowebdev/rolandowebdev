@@ -7,7 +7,7 @@
 - 📫 How to reach me **rolandopranata@gmail.com**
 - ⚡ Fun fact **Not Fun**
 
-===<h3 style="margin-block: 6px;">Connect with me👇</h3>===
+<h3 style="margin-block: 6px;">Connect with me👇</h3>
 <p>
   <a href="https://codepen.io/rolandowebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rolandowebdev" height="30" width="40" /></a>
   <a href="https://dev.to/rolandowebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rolandowebdev" height="30" width="40" /></a>
@@ -18,7 +18,7 @@
   <a href="https://www.youtube.com/c/rolandowebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rolandowebdev" height="30" width="40" /></a>
 </p>
 
-===<h3 style="margin-block: 6px;">Languages and Tools👇</h3>===
+<h3 style="margin-block: 6px;">Languages and Tools👇</h3>
 <p>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" /> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
@@ -50,7 +50,7 @@
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" /> </a>
 </p>
 
-===<h3 style="margin-block: 6px;">Support me👇</h3>===
+<h3 style="margin-block: 6px;">Support me👇</h3>
 <p>
   <a href="https://www.buymeacoffee.com/rolandowebdev"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/rolandowebdev" /></a>
 </p><br><br>
