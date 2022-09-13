@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning **React & NextJS** - 👨‍💻 All of my projects are
 available at **[rolandowebdev.space](https://rolandowebdev.space)** - 📫 Reach
 me on my email in **rolandopranata@gmail.com**
-<br />
 <h3 style="margin-block: 6px">Connect with me👇</h3>
 <p>
   <a href="https://instagram.com/rolandowebdev" target="blank"
@@ -69,7 +68,6 @@ me on my email in **rolandopranata@gmail.com**
       width="40"
   /></a>
 </p>
-<br />
 <h3 style="margin-block: 6px">Languages and Tools👇</h3>
 <p>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
@@ -244,7 +242,6 @@ me on my email in **rolandopranata@gmail.com**
       height="40" />
   </a>
 </p>
-<br />
 <h3 style="margin-block: 6px">Support me👇</h3>
 <p>
   <a href="https://www.buymeacoffee.com/rolandowebdev">
@@ -255,7 +252,6 @@ me on my email in **rolandopranata@gmail.com**
       alt="https://www.buymeacoffee.com/rolandowebdev"
   /></a>
 </p>
-<br />
 <p>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=rolandopranata&show_icons=true&locale=en&layout=compact"
