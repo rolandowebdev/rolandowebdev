@@ -6,9 +6,10 @@
   alt="Coding Animation"
   src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
 
-- 🌱 I’m currently learning **React & NextJS** - 👨‍💻 All of my projects are
-available at **[rolandowebdev.space](https://rolandowebdev.space)** - 📫 Reach
-me on my email in **rolandopranata@gmail.com**
+- 🌱 I’m currently learning **React & NextJS**
+- 👨‍💻 All of my projects are available at **[rolandowebdev.space](https://rolandowebdev.space)**
+- 📫 Reach me on my email in **rolandopranata@gmail.com**
+
 <h3 style="margin-block: 6px">Connect with me👇</h3>
 <p>
   <a href="https://instagram.com/rolandowebdev" target="blank"
