@@ -151,31 +151,10 @@
       width="40"
       height="40" />
   </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-      alt="jest"
-      width="40"
-      height="40" />
-  </a>
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"
-      alt="mocha"
-      width="40"
-      height="40" />
-  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
-      width="40"
-      height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
       width="40"
       height="40" />
   </a>
@@ -253,14 +232,5 @@
       alt="https://www.buymeacoffee.com/rolandowebdev"
   /></a>
 </p>
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=rolandopranata&show_icons=true&locale=en&layout=compact"
-    alt="rolandopranata" />
-</p>
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rolandopranata&show_icons=true&locale=en"
-    alt="rolandopranata" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=hendraaagil&theme=react&show_icons=true&custom_title=Hendra%20Agil%27s%20GitHub%20Stats" width="450" alt="GitHub Stats" style="margin-top: 10px;" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=hendraaagil&theme=react&layout=compact&langs_count=10&custom_title=Hendra%20Agil%27s%20Wakatime%20Stats" width="450" alt="Wakatime Stats" style="margin-top: 10px;" />
