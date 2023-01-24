@@ -8,7 +8,7 @@
 
    <ul align="left">
      <li>🌱 I’m currently learning **React & NextJS**</li>
-     <li>👨‍💻 All of my projects are available at ![rolandowebdev's](https://rolandowebdev.space)</li>
+     <li>👨‍💻 All of my projects are available at https://rolandowebdev.space</li>
      <li>📫 Reach me on my email in **rolandopranata@gmail.com**</li>
    </ul>
       
