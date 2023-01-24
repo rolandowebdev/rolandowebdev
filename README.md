@@ -1,15 +1,15 @@
 <div align="center">
-   <h1 style="text-align: center;">Hi👋, I'm Rolando Pranata</h1>
-   <h2 style="text-align: center;">A passionate Frontend Developer & UI Design from Indonesia</h2>  
+   <h1>Hi👋, I'm Rolando Pranata</h1>
+   <h2>Frontend Developer & UI Design Enthusiast from Indonesia</h2>  
    <img alt="Coding Animation"
       src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
 
    <hr style="height: 4px; margin-block: 12px; background-color: #2c74b3; width: 50%; border: none; border-radius: 12px;"/>
 
    <ul align="left">
-     <li>🌱 I’m currently learning **React & NextJS**</li>
-     <li>👨‍💻 All of my projects are available at https://rolandowebdev.space</li>
-     <li>📫 Reach me on my email in **rolandopranata@gmail.com**</li>
+      <li>🌱 I’m currently learning <span style="font-weight: bold">React & NextJS</span></li>
+      <li>👨‍💻 All of my projects are available at https://rolandowebdev.space</li>
+      <li>📫 Reach me on my email in <span style="font-weight: bold;">rolandopranata@gmail.com</span></li>
    </ul>
       
    <hr style="height: 4px; margin-block: 12px; background-color: #2c74b3; width: 50%; border: none; border-radius: 12px;"/>
