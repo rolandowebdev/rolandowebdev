@@ -6,7 +6,7 @@
 
    <hr style="height: 4px; margin-block: 12px; background-color: #2c74b3; width: 50%; border: none; border-radius: 12px;"/>
 
-   <ul style="display: flex; flex-direction: column">
+   <ul>
      <li>🌱 I’m currently learning **React & NextJS**</li>
      <li>
        👨‍💻 All of my projects are available at
@@ -16,6 +16,7 @@
    </ul>
       
    hr style="height: 4px; margin-block: 12px; background-color: #2c74b3; width: 50%; border: none; border-radius: 12px;"/>
+
    <h3>Connect with me👇</h3>
      <a
        style="text-decoration: none"
