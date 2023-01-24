@@ -3,10 +3,9 @@
    <h2 style="text-align: center;">A passionate Frontend Developer & UI Design from Indonesia</h2>  
    <img alt="Coding Animation"
       src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
-      
-      <hr style="height: 4px; margin-block: 12px; background-color: #2c74b3; width: 50%; border: none; border-radius: 12px;"/>
 
       <div style=" display: flex; flex-direction: column; justify-content: center; align-items: center;">
+         <hr style="height: 4px; margin-block: 12px; background-color: #2c74b3; width: 50%; border: none; border-radius: 12px;"/>
          <ul style="display: flex; flex-direction: column">
            <li>🌱 I’m currently learning **React & NextJS**</li>
            <li>
@@ -16,11 +15,10 @@
            <li>📫 Reach me on my email in **rolandopranata@gmail.com**</li>
          </ul>
       </div
-      
-   <hr style="height: 4px; margin-block: 12px; background-color: #2c74b3; width: 50%; border: none; border-radius: 12px;"/>
 
       <div style=" display: flex; flex-direction: column; justify-content: center; align-items: center;">
-        <h3>Connect with me👇</h3>
+         <hr style="height: 4px; margin-block: 12px; background-color: #2c74b3; width: 50%; border: none; border-radius: 12px;"/>
+         <h3>Connect with me👇</h3>
         <a
           style="text-decoration: none"
           href="https://instagram.com/rolandowebdev"
@@ -62,9 +60,8 @@
             width="40"
         /></a>
       </div>
+   <hr style="height: 4px; margin-block: 12px; background-color: #2c74b3; width: 50%; border: none; border-radius: 12px;"/>
    </div
-
-      <hr style="height: 4px; margin-block: 12px; background-color: #2c74b3; width: 50%; border: none; border-radius: 12px;"/>
 
    <div style=" display: flex; flex-direction: column; justify-content: center; align-items: center;">
       <img src="https://github-readme-stats.vercel.app/api?username=rolandowebdev&theme=react&show_icons=true&custom_title=Rolando%20Pranata%27s%20GitHub%20Stats"
