@@ -6,7 +6,7 @@
 
    <hr style="height: 4px; margin-block: 12px; background-color: #2c74b3; width: 50%; border: none; border-radius: 12px;"/>
 
-   <ul>
+   <ul align="left">
      <li>🌱 I’m currently learning **React & NextJS**</li>
      <li>
        👨‍💻 All of my projects are available at
@@ -15,7 +15,7 @@
      <li>📫 Reach me on my email in **rolandopranata@gmail.com**</li>
    </ul>
       
-   hr style="height: 4px; margin-block: 12px; background-color: #2c74b3; width: 50%; border: none; border-radius: 12px;"/>
+   <hr style="height: 4px; margin-block: 12px; background-color: #2c74b3; width: 50%; border: none; border-radius: 12px;"/>
 
    <h3>Connect with me👇</h3>
      <a
