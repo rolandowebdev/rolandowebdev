@@ -5,13 +5,7 @@
       <img alt="Coding Animation"
       src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
    </div>
-
-   <ul>
-      <li>🌱 I’m currently learning <span style="font-weight: bold">React & NextJS</span></li>
-      <li>👨‍💻 All of my projects are available at https://rolandowebdev.space</li>
-      <li>📫 Reach me on my email in <span style="font-weight: bold;">rolandopranata@gmail.com</span></li>
-   </ul>
-
+   
    ## Socials
    
    <a href="http://www.instagram.com/rolandowebdev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
