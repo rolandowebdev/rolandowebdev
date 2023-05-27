@@ -17,5 +17,6 @@
    <a href="http://www.github.com/rolandowebdev"><img src="https://github-readme-stats.vercel.app/api?username=rolandowebdev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rolandowebdev's GitHub stats"/></a>
 
    <a href="https://github.com/rolandowebdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolandowebdev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a>
-   
+
+   <a href="https://app.daily.dev/rolandopranata"><img src="https://api.daily.dev/devcards/48e0ee30993d433bac1f171879abe606.png?r=hsi" width="400" alt="Rolando Pranata's Dev Card"/></a>
 </div>
