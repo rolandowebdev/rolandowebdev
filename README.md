@@ -1,7 +1,7 @@
 <div align="left">
    <div align="center">
       <h1>Hi👋 My name is Rolando Pranata</h1>
-      <h2>Frontend Developer & UI Design Enthusiast from Indonesia</h2>
+      <h2>Frontend Developer & Content Creator from Indonesia</h2>
       <img alt="Coding Animation"
       src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
    </div>
